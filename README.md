@@ -112,7 +112,7 @@ This book could also be used as library examples to consult when implementing ma
 
 |Date |Contents                                                       | Difficulties   | Est. Time | Update Status|
 |----:|:--------------------------------------------------------------|-----------:|----------:|-----:|
-|&nbsp;|[**Chapter 1: Modeling Procedure of TensorFlow**](./english/Chapter1.md)    |⭐️   |   0hour   |✅    |
+|&nbsp;|[**Chapter 1: Modeling Procedure of TensorFlow**](./english/Chapter1.md)    |⭐️   |   0hour   | :heavy_check_mark:  |
 |Day 1 |  [1-1 Example: Modeling Procedure for Structured Data](./english/Chapter1-1.md)    | ⭐️⭐️⭐️ |   1hour    |✅    |
 |Day 2 |[1-2 Example: Modeling Procedure for Images](./english/Chapter1-2.md)    | ⭐️⭐️⭐️⭐️  |   2hours    |✅    |
 |Day 3 |  [1-3 Example: Modeling Procedure for Texts](./english/Chapter1-3.md)   | ⭐️⭐️⭐️⭐️⭐️  |   2hours    |✅    |
